@@ -2,9 +2,9 @@
 
 Integrantes:
 *Garcia Vilchis Miguel Angel (SCRUM TEAM)
-*Gonzalez Calvillo Ariel()
-*Leon Vargas Jose Luis()
-*Manzano Perez Carlos Alonso()
+*Gonzalez Calvillo Ariel(SCRUM TEAM)
+*Leon Vargas Jose Luis(SCRUM MASTER)
+*Manzano Perez Carlos Alonso(SCRUM TEAM)
 *Santander Ibarra Luis Adrian(Product Owner)
 
 Correo electronico:
